@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1516567849</timestamp>
+  <hostname>DESKTOP-00JQ1BL</hostname>
+  <os>windows</os>
+  <product>Intel® VTune™ Amplifier 2018 Update 1</product>
+  <buildNumber type="s32_t">535340</buildNumber>
+  <logicalCPUCount type="s32_t">2</logicalCPUCount>
+  <CPUFrequency type="s64_t">2495000000</CPUFrequency>
+  <CPUFamily type="s32_t">6</CPUFamily>
+  <CPUModel type="s32_t">142</CPUModel>
+  <CPUStepping type="s32_t">9</CPUStepping>
+  <CPUBrandName>Intel(R) Core(TM) i7-7660U CPU @ 2.50GHz</CPUBrandName>
+  <isa>avx2</isa>
+  <collectionTimeBegin type="u64_t">1516567849</collectionTimeBegin>
+  <collectionTimeEnd type="u64_t">1516567851</collectionTimeEnd>
+  <variables>
+   <at>hs</at>
+  </variables>
+ </rdmgr>
+</root>

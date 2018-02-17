@@ -1,0 +1,7 @@
+1. cos 41.89 (%)
+2. dctTransformation 32.79 (%)
+3. _stdio_common_vfprintf 20.76 (%)
+4. round 2.00 (%)
+5. [Import thunk cos] 1.28 (%)
+
+Vrijeme izvodjenja: 0.549 s.

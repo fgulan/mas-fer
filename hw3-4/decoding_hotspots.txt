@@ -1,0 +1,7 @@
+1. cos 46.78 (%)
+2. idctTransformation 26.61 (%)
+3. _stdio_common_vfscanf 24.92 (%)
+4. round 1.02 (%)
+5. readOutFileToYCCImage 0.5 (%)
+
+Vrijeme izvodjenja: 0.590 s.

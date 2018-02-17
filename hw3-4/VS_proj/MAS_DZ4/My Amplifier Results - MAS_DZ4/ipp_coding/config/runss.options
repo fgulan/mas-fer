@@ -1,0 +1,14 @@
+-r
+C:\Users\Filip Gulan\Desktop\MAS_DZ4\MAS_DZ4\My Amplifier Results - MAS_DZ4\r000hs
+--stack-stitching
+--data-limit-mb=500
+--disk-space-limit=0
+--mrte-type=java,dotnet,python
+--itt-config=frame
+--stackwalk=offline
+--mrte-mode=auto
+--type=cpu:counters:nostack
+--type=cpu:stack
+--interval=1
+--
+C:\Users\Filip Gulan\Desktop\MAS_DZ4\x64\Release\MAS_DZ4.exe
